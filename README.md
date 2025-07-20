@@ -4,4 +4,4 @@ This repo consists of the mobile applications that Rajjit Laishram have built, w
 
 ## Applications
 
-1. [My AI Walls]("/My%20AI%20Walls")
+1. [My AI Walls]("My%20AI%20Walls")
