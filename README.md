@@ -10,7 +10,7 @@ This repository features open-source mobile applications developed by **Rajjit L
 
 > **My AI Walls** offers a seamless experience for discovering and setting wallpapers. It features a curated collection of AI-generated wallpapers, 4K backgrounds, and mobile-optimized designs. Built with performance and aesthetics in mind, the app is lightweight and intuitive for all users.
 
-*📲 [Download My AI Walls ](https://github.com/rajjitlai/rajjitlaishram-apps/releases/download/v1.0.7/My.AI.Walls-v1.0.7.beta.apk)*
+*📲 [Download My AI Walls ](https://github.com/rajjitlai/rajjitlaishram-apps/releases/download/v1.0.8/My.AI.Walls-v1.0.8.beta.apk)*
 
 ### 2. More apps coming soon...
 
